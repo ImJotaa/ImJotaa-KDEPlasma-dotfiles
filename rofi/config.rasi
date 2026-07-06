@@ -1,0 +1,13 @@
+// Rofi — Neon Grid
+configuration {
+    modes: "drun,run,window";
+    font: "JetBrainsMono Nerd Font 12";
+    show-icons: true;
+    display-drun: "󰍜";
+    display-run: "";
+    display-window: "󰖯";
+    drun-display-format: "{name}";
+    terminal: "kitty";
+}
+
+@theme "neon-grid"

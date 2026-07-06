@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Rofi (lanzador)
+Exec=rofi -show drun
+Icon=system-search
+NoDisplay=true
