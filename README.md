@@ -1,6 +1,6 @@
 | Component | Software |
 | --------- | -------- |
-| Windoww Manager | KDE Plasma |
+| Windoww Manager | Wayfire |
 | Terminal | Kitty |
 | Shell | ZSH |
 | Fetch | FastFetch |
