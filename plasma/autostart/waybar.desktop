@@ -1,6 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Waybar
-Comment=Barra de estado (sustituye al panel de Plasma)
-Exec=waybar
-X-KDE-autostart-phase=2

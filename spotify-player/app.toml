@@ -1,8 +1,0 @@
-# spotify-player — Neon Grid
-theme = "neon-grid"
-enable_media_control = true
-enable_notify = false
-border_type = "Rounded"
-progress_bar_type = "Line"
-cover_img_scale = 1.0
-playback_window_position = "Bottom"
