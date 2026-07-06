@@ -58,3 +58,4 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=#6f6a8f'
 
 # ── Fetch al abrir terminal interactiva ───────────────────────
 [[ $- == *i* ]] && command -v fastfetch >/dev/null && fastfetch
+export PATH="$HOME/.local/bin:$PATH"
